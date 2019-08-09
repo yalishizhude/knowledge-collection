@@ -2,6 +2,8 @@
 
 * [入门前端的常见3个问题](https://github.com/yalishizhude/knowledge-collection/blob/master/junior-frontend.md)
 
+* [前端入门后如何快速提升](https://github.com/yalishizhude/knowledge-collection/blob/master/middle-frontend.md)
+
 ---
 更多内容可以关注公众号“web学习社”
 
