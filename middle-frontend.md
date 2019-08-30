@@ -95,6 +95,12 @@
 
 这一阶段的主要任务是**搭建自己的知识系统，然后不断丰富它。**
 
-更详细的内容在我8月底上架的新书《了不起的JavaScript工程师》中有介绍。
+---
+
+如果觉得这篇文章对你有帮助的话请帮我一个小忙：
+我的新书[《了不起的JavaScript工程师：从前端到全端高级进阶》](https://detail.tmall.com/item.htm?spm=a230r.1.0.0.6717e18aN4aC6E&id=600756390664&ns=1)已经出版，
+旨在帮助前端工程师全面提升开发能力与建立全局视野。
+希望能帮忙[宣传推荐](https://mp.weixin.qq.com/s/Ys_3Q0NYsGAitIAK1CkgzQ)一下，非常感谢~
+![](https://github.com/yalishizhude/knowledge-collection/raw/master/37129.png)
 
 
